@@ -1,0 +1,8 @@
+Fixes that need to be implemented:
+  -fix the showing of data from the mySQL database. Currently the data is grabbed successfully but is not shown in the fragment
+   Fragment may need to be turned into an activity and done that way
+
+
+Features that need to be implemented
+  -Editing of inventory that is already in the database
+  -Removing an entry from the database entirely
